@@ -7,7 +7,7 @@ Implementation of the class two player game.
 # TODO: Add your code below this line
 
 
-def main():
+def main() -> None:
     print("🎵How much is that kitty in the window?🎵")
 
 if __name__ == "__main__":
